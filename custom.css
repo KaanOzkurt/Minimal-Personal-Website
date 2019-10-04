@@ -1,0 +1,43 @@
+﻿body {
+    background-color: #212121;
+}
+
+#main {
+    color: #cddc39;
+    text-align: center;
+}
+
+#title {
+    font-size: 2vw;
+    margin-top: 10vh;
+}
+
+#imagediv {
+    border: 1px solid #cddc39;
+    margin: auto;
+    margin-top: 5vh;
+    width: 13.2vw;
+}
+
+    #imagediv img {
+        width: 13vw;
+    }
+
+#buttons {
+    margin: auto;
+    margin-top: 5vh;
+    width: 25vw;
+}
+
+    #buttons button {
+        color: #cddc39;
+        font-family: purista-web, sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 1vw;
+        text-decoration: none;
+    }
+
+#footer {
+    margin-top: 25vh;
+}
